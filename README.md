@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://static.vecteezy.com/system/resources/previews/011/481/175/non_2x/devops-icon-development-icon-devops-illustration-on-isolated-background-vector.jpg"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXE5NmVubXg3OHgyMjJ3dW8waHFlbHc2dXR5bnNuNm95dWVhMGM4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 
 ###
 
@@ -46,7 +46,6 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
 </div>
-
 
 ###
 
