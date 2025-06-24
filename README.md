@@ -17,5 +17,5 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wegoagain00&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"></a>
 </p>
-<img align="center" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXE5NmVubXg3OHgyMjJ3dW8waHFlbHc2dXR5bnNuNm95dWVhMGM4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+<img align="center" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NveDB6M3Q2eDcxeHE1eTdvMWUwdng4and1ZXd6eWEydW9mOGhucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif"  />
 
