@@ -5,7 +5,7 @@
 <p>Currently upskilling & mastering docker, terraform, kubernetes 🚀</p>
 <h2>🚀 Tech Stack I Use:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,bash,linux,aws,terraform,docker,kubernetes,python,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,bash,linux,aws,terraform,docker,kubernetes,python,vscodearch,neovim)](https://skillicons.dev)
 
 <h2>⚡️ Where to find me:</h2>
 <p><a target="_blank" href="https://x.com/_wegoagain" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
