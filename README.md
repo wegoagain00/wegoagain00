@@ -1,8 +1,10 @@
 ###
 <h1>Hi 👋, I'm Tawfiq</h1>
-<p>A passionate devops engineer 🙌</p>
-<p>Always looking for new challenges 💪🏾</p>
-<p>Currently upskilling & mastering docker, terraform, kubernetes 🚀</p>
+<p>I'm Tawfiq! Devops Engineer always looking to improve any delivery!</p>
+
+<p>Passionate about bridging development and operations. I enjoy automating infrastructure, optimizing CI/CD pipelines, and building scalable cloud solutions.</p>
+
+<p>I love the challenge of making deployments seamless and systems more reliable.</p>
 <h2>🚀 Tech Stack I Use:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,bash,linux,aws,terraform,docker,kubernetes,python,vscode,arch,neovim)](https://skillicons.dev)
