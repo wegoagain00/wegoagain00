@@ -2,7 +2,9 @@
 <h1>I'm Tawfiq (wegoagain)</h1>
 <p>Devops Engineer always looking to improve any delivery!</p>
 
-<p>Passionate about bridging development and operations. I enjoy automating infrastructure, optimizing CI/CD pipelines, and building scalable cloud solutions.</p>
+<p>Passionate about bridging development and operations.</p>
+
+<p>I enjoy automating infrastructure, optimizing CI/CD pipelines, and building scalable cloud solutions.</p>
 
 <p>I love the challenge of making deployments seamless and systems more reliable.</p>
 
