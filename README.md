@@ -4,8 +4,6 @@
 
 <p>Passionate about bridging development and operations. I enjoy automating infrastructure, optimizing CI/CD pipelines, and building scalable cloud solutions.</p>
 
-<p>I enjoy automating infrastructure, optimizing CI/CD pipelines, and building scalable cloud solutions.</p>
-
 <p>I love the challenge of making deployments seamless and systems more reliable.</p>
 
 <h2>🚀 Tech Stack I Use:</h2>
